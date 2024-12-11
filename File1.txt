@@ -1,8 +1,11 @@
 1. Schedule the trigger process to start the processing.
 
-2. Verify the availability of file in the stage folder
 
-3. If no files available in the stage folder , list the files from inbound folder  and sort the list attributes based on the timestamp 
-   and copy the predeffined number of files  to stage folder in paralell fashion.
+1. Schedule the trigger process to start the processing.
 
-4. Read the partner configuration where it details the partner drop zone locations.
+1. Schedule the trigger process to start the processing.
+
+1. Schedule the trigger process to start the processing.
+
+
+1. Schedule the trigger process to start the processing.
